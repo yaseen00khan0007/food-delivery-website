@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Topsection from './Components/Topsection';
 import Secondsection from './Components/Secondsection';
